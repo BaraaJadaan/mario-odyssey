@@ -4,7 +4,7 @@ import React from 'react'
 function Header() {
   return (
     <div>
-        <div class=" mx-10 mt-3 flex justify-between items-center "> {/*wraber*/}
+        <div class=" mx-10 mt-1 flex justify-between wrab items-center "> {/*wraber*/}
             <div class="banner flex justify-start"> {/*banner*/}
                 <svg class="mr-3" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path fill-rule="evenodd" clip-rule="evenodd" d="M6 12.4502C6.55228 12.4502 7 12.8979 7 13.4502V26.0002H25V13.4502C25 12.8979 25.4477 12.4502 26 12.4502C26.5523 12.4502 27 12.8979 27 13.4502V26.0002C27 26.5306 26.7893 27.0393 26.4142 27.4144C26.0391 27.7895 25.5304 28.0002 25 28.0002H7C6.46957 28.0002 5.96086 27.7895 5.58579 27.4144C5.21071 27.0393 5 26.5306 5 26.0002V13.4502C5 12.8979 5.44772 12.4502 6 12.4502Z" fill="#A259FF"/>

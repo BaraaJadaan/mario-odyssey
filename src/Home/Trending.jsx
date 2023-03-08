@@ -8,7 +8,6 @@ import Shroomsm1 from "../assets/secondary-photo-placeholder-2@2x.png";
 import Shroomsm2 from "../assets/secondary-photo-placeholder-3@2x.png";
 import Robotsm1 from "../assets/secondary-photo-placeholder-10@2x.png";
 import Robotsm2 from "../assets/secondary-photo-placeholder-11@2x.png";
-
 import foxxs from "../assets/avatar-placeholder@2x.png";
 import avatarxs from "../assets/avatar-placeholder-2@2x.png";
 import Robotxs from "../assets/avatar-placeholder-54@2x.png";
@@ -17,7 +16,7 @@ import Robotxs from "../assets/avatar-placeholder-54@2x.png";
 
 function Trending() {
   return (
-    <div class="mx-28 mt-16">
+    <div class="lg:mx-20 mt-32">
         <h1 class="txt text-3xl font-mono">Trending Collection</h1>
         <h3 class="txt text-xl mt-2">Checkout Our Weekly Updated Trending Collection.</h3>
         <div class="flex justify-between gap-6 mt-12 "> {/* Cards */}

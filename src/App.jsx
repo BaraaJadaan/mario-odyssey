@@ -1,6 +1,7 @@
 import './App.css'
 import Header from './Home/Header'
 import Hero from './Home/Hero'
+import Trending from './Home/Trending'
 
 function App() {
   
@@ -9,6 +10,7 @@ function App() {
     <div className="App">
       <Header/>
       <Hero/>
+      <Trending/>
     </div>
   )
 }

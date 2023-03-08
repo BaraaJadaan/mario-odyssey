@@ -9,8 +9,12 @@
     .btn {
       @apply text-white bg-[#A259FF] py-4 rounded-2xl;
     }
+    .txt {
+      @apply text-white font-semibold;
+    }
   }
 
 body {
   background-color: #2B2B2B;
+  
 }

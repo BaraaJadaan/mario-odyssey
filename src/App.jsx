@@ -1,4 +1,5 @@
-import './App.css'
+import './App.scss'
+import Categories from './Home/Categories'
 import Header from './Home/Header'
 import Hero from './Home/Hero'
 import TopCreators from './Home/TopCreators'
@@ -13,6 +14,7 @@ function App() {
       <Hero/>
       <Trending/>
       <TopCreators/>
+      <Categories/>
     </div>
   )
 }

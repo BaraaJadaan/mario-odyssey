@@ -1,0 +1,14 @@
+body {
+    background-color: #2B2B2B;
+    
+  }
+
+.wrab{
+    flex-wrap: wrap;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+}
